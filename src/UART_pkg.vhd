@@ -1,4 +1,5 @@
 -- UART_pkg
+-- repository : https://github.com/DRubioG/UART_pkg
 -- This package simulates the behaviour of the UART for the testbenchs.
 -- This package has procedures to write a UART message and read a UART message
 -- in every frequency of the UART protocol (by default to 115200 bauds).
